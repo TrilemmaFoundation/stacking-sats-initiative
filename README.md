@@ -1,6 +1,6 @@
 # Stacking Sats Commons
 
-Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertrial.ai/) [Stacking Sats](https://www.stackingsats.org/) microproduct. Maintained by the Trilemma Foundation, this repository is the gateway to making contributions to the product accessible through capstone projects, datathons, and general open source collaboration.
+Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertrial.ai/) [Stacking Sats](https://www.stackingsats.org/) microproduct. Maintained by Trilemma Foundation, this repository is the gateway to making contributions to the product accessible through capstone projects, datathons, and general open source collaboration.
 
 ---
 
